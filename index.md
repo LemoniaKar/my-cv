@@ -1,6 +1,9 @@
 
 ![myProfile1](/images/myProfile1.png) 
 
+
+[about us](about.md)
+
 # ΛΕΜΟΝΙΑ ΚΑΡΑΓΙΑΝΝΑΚΗ
 
 
